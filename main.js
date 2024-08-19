@@ -1,4 +1,4 @@
-const caixaPrincipal = document.querySelector(“.caixa-
+onst caixaPrincipal = document.querySelector(“.caixa-
 principal”);
 
 const caixaPerguntas = document.querySelector(“.caixa-
@@ -15,11 +15,11 @@ resultado”);
 
 const perguntas = [
 {
-enunciado: “você gosta de musica”,
-alternativas: [“sim”, “não”],
+enunciado: “Pergunta 1”,
+alternativas: [“Alternativa 1”, “Alternativa 2”],
 },
 {
-enunciado: “você gosta de estudar?”,
-alternativas: [“sim”, “não”],
+enunciado: “Pergunta 2”,
+alternativas: [“Alternativa 1”, “Alternativa 2”],
 },
 ];
