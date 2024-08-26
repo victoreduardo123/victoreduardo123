@@ -9,40 +9,40 @@ const perguntas = [
     enunciado: "você gosta de musica? Que tipo de musica?",
     alternativas: [
         {
-            texto:"funk,trap",
+            texto:" serjanejo,funk",
             afirmacao: "Afirmação 1"
         },
         {
-        texto:"sertanejo,samba",
+        texto:"samba,pagode",
         afirmacao: "Afirmação 2"
         }
     ]
 },
 
 {
-    enunciado: "Pergunta 2",
+    enunciado: "você está gostando do novo ensino médio?",
     alternativas: [
         {
 
-        texto: "Alternativa 1 da pergunta 2",
+        texto: "sim",
         afirmacao: "Afirmação 1 da pergunta 2"
         },
         {
-        texto:"Alternativa 2 da pergunta 2",
+        texto:"não",
         afirmacao: "Afirmação 2 da pergunta 2"
         }
     ]
 },
 
 {
-    enunciado: "Pergunta 3",
+    enunciado: "você sabe montar um cubo mágico?",
     alternativas: [
         {
-        texto:"Alternativa 1 da pergunta 3",
+        texto:"sim",
         afirmacao: "Afirmação 1 da pergunta 3"
         },
         {
-        texto:"Alternativa 2 da pergunta 3",
+        texto:"sim",
         afirmacao: "Afirmação 2 da pergunta 3"
         }
     ]
