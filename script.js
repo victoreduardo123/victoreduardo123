@@ -42,7 +42,7 @@ const perguntas = [
         afirmacao: "Afirmação 1 da pergunta 3"
         },
         {
-        texto:"sim",
+        texto:"não",
         afirmacao: "Afirmação 2 da pergunta 3"
         }
     ]
